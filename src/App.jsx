@@ -171,10 +171,8 @@ function App() {
 
       </section>
 
-      <footer className='flex flex-col justify-center mt-56'>
-        <div className='text-white/90 font-light text-2xl mx-auto select-none'>
-          I dont know what to do with this space down here, lets say you didnt scroll this far.
-        </div>
+      <footer className='flex flex-col justify-center mt-36'>
+        <img src='/DTD logo png.png' className='w-32 mx-auto' />
       </footer>
 
     </div>
