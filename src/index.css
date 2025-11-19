@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* * { */
+/*   outline: red solid 1px; */
+/* } */
+
+* {
+  scroll-behavior: smooth;
+  overscroll-behavior: none;
+}
